@@ -1,0 +1,29 @@
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Operating system files
+.DS_Store # macOS specific
+Thumbs.db # Windows specific
+
+# IDE/Editor directories
+.idea/ # IntelliJ IDEA and other JetBrains IDEs
+.vscode/ # Visual Studio Code
+
+# Build outputs
+/dist
+/build
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Dependency directories
+jspm_packages/
+bower_components/
+
+# Optional npm cache directory
+.npm
